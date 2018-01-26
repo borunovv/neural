@@ -1,2 +1,2 @@
 # neural
-Neural networks and Genetic algorithms R&amp;D
+Neural networks and Genetic algorithms R&D
